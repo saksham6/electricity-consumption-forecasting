@@ -1,0 +1,8 @@
+pandas: 2.2.2
+numpy: 1.26.4
+scikit-learn: 1.2.2
+matplotlib: 3.7.5
+tensorflow: 2.17.1
+pmdarima: 2.0.4
+statsmodels: 0.14.4
+holidays: 0.63
